@@ -1,0 +1,16 @@
+from itertools import zip_longest
+import re
+
+data_path = "weather.txt"
+
+with open(data_path, 'r', encoding='utf-8') as f:
+  lines = f.read().split('\n')
+
+lines = [re.sub(r"(?:\@|https?\://)\S+", "", line).strip() for line in lines]
+
+
+def grouper(iterable, n, fillvalue=None):
+    args = [iter(iterable)] * n
+    return zip_longest(*args, fillvalue=fillvalue)
+pairs = list(grouper(lines, 2))
+

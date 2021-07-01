@@ -1,0 +1,511 @@
+@BRIDE What's the matter, dear?
+@GROOM Uuuuuuugh!!
+@BRIDE Hey, sweetheart, will you CUT THAT OUT!!!
+@BRIDE Have I done the right thing?
+@GROOM To the bathroom, where do you think?
+@BRIDE Now where are you going?
+@BRIDE I didn't break your precious clock, Roy!
+@GROOM Nice going, honey.  It was brand new.
+@BRIDE Roy?  Your clock broke.
+@BRIDE Well, thanks a lot.
+@GROOM I don't know.  It probably would've been the same.
+@BRIDE Aren't you glad we waited?
+@VENKMAN I was just going to say "eight."  You're fantastic!
+@COED Eight o'clock?
+@VENKMAN Okay.  Just give me a second here.  I have to leave now but if you've got some time I'd like you to come back this evening and do some more work with me.
+@VENKMAN Definitely.  I think you may be a very gifted telepath.
+@COED Do you think I have it, Dr. Venkman?
+@VENKMAN Well, I guess some people have it and some don't.
+@VENKMAN Well, you're doing great.  Keep it up.
+@COED No.  They're just coming to me.
+@VENKMAN Incredible!  Five for five.  You're not cheating on me here, are you?
+@COED Ummm -- figure eight?
+@VENKMAN Ready?  What is it?
+@VENKMAN It is a star!  That's great.  You're very good.
+@COED Is it a star?
+@DANA All right, what happened to me?
+@LOUIS I'm innocent!  Honest, Dana.  I never touched you.  Not that I remember anyway.
+@DANA Oh, sure.  I'm getting used to this.
+@DANA I am Zuul.
+@LOUIS Are you the Gatekeeper?
+@LOUIS I got the Twister game for later ...
+@DANA Fine, Louis.  We'll stop in for a drink.
+@LOUIS Great!  Bring her, too.  But you better hurry.  I made nachos with non-fat cheese and they're almost gone.  I'll make some more though.
+@DANA Well, actually Louis I have a friend coming by.
+@LOUIS Hey, it's crazy in here.  You're missing a classic party.
+@DANA Hi, Louis.
+@LOUIS Oh, Dana, it's you.
+@DANA I thought I turned it off.  I guess I forgot.
+@LOUIS You know you shouldn't leave your TV on so loud when you go out.  That creep down the hall phoned the manager.
+@DANA Oh, that's nice, Louis.  I'll stop by if I'm around.
+@LOUIS Okay.  I'll take a raincheck.  I always have plenty of mineral water and other nutritious health foods, but you know that.  Listen, that reminds me, I'm having a party for all my clients.  It's gonna be my fourth anniversary as an accountant.  I know you fill out your own tax return, but I'd like you to come being that you're my next door neighbor and all ...
+@DANA No thanks, Louis.  I'm really tired.  I've been rehearsing all morning.
+@LOUIS Oh, no, I feel great.  I just ordered some more vitamins.  I see you were exercising. So was I.  I taped "20 Minute Workout" and played it back at high speed so it only took ten minutes and I got a really good workout. You wanna have a mineral water with me?
+@DANA Are you sick, Louis?
+@LOUIS ... I thought it was the drug store.
+@DANA Hi, Louis.
+@LOUIS Oh, Dana, it's you ...
+@DANA Talk to my accountant.
+@VENKMAN This is going to cost you, you know.  Our fees are ridiculously high.
+@DANA Thank you.  Next time I want to break a lease I'll know who to call.
+@VENKMAN Yeah, along with most of your furniture and a lot of your personal possessions.  This one took some work.
+@DANA Really!  Is it gone?
+@VENKMAN Nothing!  We just got rid of that thing in your kitchen.
+@VENKMAN Whoa!! Nice voice.
+@DANA There is no Dana.  I am Zuul.
+@VENKMAN Right ... You're the Gatekeeper.  But I want Dana.  Dana, speak to me ...
+@DANA I am Zuul.  I am ...
+@VENKMAN I don't know.  You've got two people in there already.  It could get a little crowded.  I want you to close your eyes and relax.  Now I'm going to speak to Dana and I want Dana to answer.
+@DANA I want you inside me.
+@VENKMAN Actually, it's more of a policy than a rule.
+@DANA Take me now.
+@VENKMAN Well, I'll just use it for a while and get it right back to you.
+@DANA Do you want this body?
+@VENKMAN Really?  Can't wait to meet him.  As long as we're waiting for him, I'd really like to try something with you -- in the bedroom.
+@DANA He is the Destructor.
+@VENKMANOkay, I'll help you.  Should we make some dip or something?
+@DANA We must prepare for the coming of Gozer.
+@DANA I am Zuul.  I am the Gatekeeper.
+@VENKMAN Hey, Dana.  What is it?  What happened?
+@DANA I've got to go now.
+@VENKMAN I'll pick you up at your place.  I'll bring along the Roylance Guide -- we can read after we eat.
+@DANA All right.  Since you put it that way.
+@VENKMAN You think I enjoy giving up my evenings to spend time with clients?  I'm making an exception because I respect you as an artist and as a dresser.
+@DANA I don't think so.  I'm busy Thursday night.
+@VENKMAN I'm checking on that.  I think we should meet Thursday night at nine to talk about it.
+@DANA What's he doing in my refrigerator.
+@VENKMAN "Gozer" -- he was very big in the Sumerian religion.  One of their gods.
+@DANA Hittites,  the Mesopotamians and the Sumerians.  "Zuul was the Minion of Gozer."
+@VENKMAN Well, the name Zuul refers to a demi-god worshipped around 6000 B.C. by the ... What's that say?
+@DANA You must have gotten the last copy.
+@VENKMAN I'll cancel the reservation,  I found the name "Zuul" in ...  The Roylance Guide to Secret Societies and Sects.  I don't suppose you've  read it.
+@DANA Can't you tell me now?
+@VENKMANYes, but I have to tell you in private at a fine restaurant.
+@DANA He is a very close friend.  Do you have some explanation of what happened in my apartment?
+@VENKMANIs he dying or something?
+@DANA The "stiff?"  He happens to be one of the finest musicians in the world and a wonderful man.
+@VENKMAN Who's the stiff?
+@DANA I know.  You're quite a celebrity these days.  Are you here because you have info ... about my case?
+@VENKMAN I don't have to take abuse from you.  I have other people dying to give it to me.
+@DANA Most people can't hear me with the whole orchestra playing.  You're good.
+@VENKMAN You're the best one in your row.
+@DANA You heard it?
+@VENKMAN Great rehearsal.
+@VENKMAN No kiss?
+@DANA Goodbye.
+@VENKMAN Okay.  Then I'll go.
+@DANA All right.
+@VENKMAN Okay, okay.  But if anything else happens, you have to promise you'll call me.
+@DANA Then leave.
+@VENKMAN Don't scream.
+@DANA I'll scream.
+@VENKMAN I want to help you.
+@DANA Out!
+@VENKMAN On a purely scientific basis.
+@DANA That's it.  Get out.
+@VENKMAN I think I should spend the night here.
+@DANA All right.  What do you want to do?
+@VENKMAN I'm a qualified psychologist.  I've got a degree and everything.  I believe that something happened here and I want to do something about it.
+@DANA Thanks.  Coming from you that really means a lot to me.
+@VENKMAN If it's any comfort to you, I don't think you're crazy.
+@DANA This is terrible.  Either there's a monster in my kitchen or I'm completely crazy.
+@VENKMAN There's nothing there now and I don't get any significant readings.
+@VENKMAN Yeah, yeah.
+@DANA Are you all right?
+@VENKMAN Damn!
+@VENKMAN I know.  It happened by itself.
+@DANA I told you, I ...
+@VENKMAN You're quite a housekeeper.
+@DANA I'll wait here if you don't mind.
+@VENKMAN Well, let's check it out.
+@DANA Uh-huh.
+@VENKMAN Nothing.  Is that the kitchen?
+@DANA What?
+@VENKMAN That's too bad.
+@VENKMAN Thanks.  What's in there?
+@DANA Like a used car salesman.
+@VENKMAN No?  What do I act like?
+@DANA You really don't act like a scientist.
+@VENKMAN Yeah, but it's got a great cello break.
+@DANA That's a violin concerto.
+@VENKMANI'd have to say Prokofiev's third concerto.
+@DANA Really?  Do you have a favorite piece?
+@VENKMAN You play the cello!  It's my favorite instrument.
+@DANA No.  If I moved out now I'd be acknowledging that what happened was real.  I'm not ready to do that.
+@VENKMAN Have you ever thought of moving out -- at least until this disturbance blows over?
+@VENKMAN Spengler,  see if you can find the word "Zuul" in any of the literature.  I'll take Miss Barrett home and check out her apartment.
+@DANA No, just that one word -- Zuul -- but I have no idea what it means.
+@VENKMAN It's in the stars.
+@DANA Is that your professional opinion?
+@VENKMAN Some people like the attention.  Some people are just crazy.
+@DANA Why would anyone make up a thing like that?
+@VENKMAN So what do you think it was?
+@DANA ... and then I opened the door again but it was gone.  There was nothing there.
+@DANA Barrett.  Dana Barrett.
+@VENKMAN We're all professionals here, Miss ...
+@DANA Yes ... well ... I'm not sure.  What I have to say may sound a little ... unusual.
+@VENKMAN Hello.  I'm Peter Venkman.  May I help you?
+@VENKMAN I see.
+@DEAN YAEGER Dr. Venkman, we believe that the purpose of science is to serve mankind.  You, however, seem to regard science as some kind of "dodge" or "hustle."  Your theories are the worst kind of popular tripe, your methods are sloppy and your conclusions are highly questionable.  You're a poor scientist, Dr. Venkman, and you have no place in this department or in this University.
+@VENKMAN But why?  The students love us!
+@DEAN YAEGER Fine.  This University will no longer continue any funding of any kind for your group's activities.
+@VENKMAN This is preposterous!  I demand an explanation.
+@DEAN YAEGER No, we're moving you OFF CAMPUS.  The Board of Regents has decided to terminate your grant.  You are to vacate these premises immediately.
+@VENKMAN I trust you're moving us to a better space somewhere on campus.
+@FIRST BUM That would definitely explain it.
+@SECOND BUM I wonder if there might not be a very large cup of hot chocolate somewhere in the area.
+@FIRST BUM You have to wonder why anybody would dump a marshmallow that size right in the middle of the street.
+@SECOND BUM Yeah, it's some kind of mallow-type substance - that's for sure.
+@FIRST BUM Well, that definitely looks like marshmallow to me.
+@SECOND BUM Definitely some sort of fighting Spaniel, I think.
+@FIRST BUM He's a big one.  You don't want to mess with that particular breed.
+@SECOND BUM That is one speedy mutt.
+@VENKMAN We'll get back to you.
+@HEAD LIBRARIAN Did you see it?  What was it?
+@VENKMAN Back off, man!  I'm a scientist!
+@HEAD LIBRARIAN What's that got to do with it?
+@VENKMAN One thing at a time.  We don't even know what it is yet.
+@HEAD LIBRARIAN Thank you for coming.  I'd appreciate it if we could take care of this quickly and quietly.
+@VENKMAN Yes.  I'm Dr. Venkman and this is Dr. Stantz.
+@HEAD LIBRARIAN Hello, I'm Roger Delacorte - the Head Librarian.  Are you the men from the University?
+@SPENGLER Thank you.
+@JANINE Keep it anyway.  I have another one at home.
+@SPENGLER I don't believe in luck.
+@JANINE It's a souvenir from the 1964 World's Fair at Flushing Meadow.  It's my lucky coin.
+@SPENGLER What is it?
+@JANINE I want you to have this.
+@JANINE That's so romantic.
+@SPENGLER I don't care.  I see us as tiny parts of a vast organism, like two bacteria living on a rotting speck of dust floating in an infinite void.
+@JANINE In the physical sense.
+@SPENGLER Die in what sense?
+@JANINE Egon, there's something very strange about that man.  I'm very psychic usually and right now I have this terrible feeling that something awful is going to happen to you.  I'm afraid you're going to die.
+@JANINE Remind me not to go to lunch with you.
+@SPENGLER I think it's the food of the future.
+@JANINE Oh, that's very - unusual.
+@SPENGLER I collect spores, molds and fungus.
+@JANINE It's a great game!  You should play sometime.  I bet you'd be good.  You seem very athletic.  Do you have any hobbies?
+@SPENGLER Is that a game?
+@JANINE That's very fascinating to me.  I read a lot myself.  Some people think I'm too intellectual.  But I think reading is a fabulous way to spend your spare time.  I also play racketball.  Do you ever play?
+@SPENGLER Print is dead.
+@JANINE You're very handy, I can tell.  I bet you like to read a lot, too.
+@JANINE Oh, really?  Well, I've quit better jobs than this one, believe me.
+@VENKMAN Janine, I'm sure a woman with your qualifications would have no trouble finding a top flight job in the housekeeping or food service industry.
+@JANINE I didn't ask him.  All I know is that I haven't had a break in two weeks and you promised you'd hire more help.
+@VENKMAN The EPA?  What's he want?
+@JANINE And someone from the EPA is here to see you.
+@JANINE Here are tonight's calls.
+@VENKMAN Here's the paper on the Brooklyn job.  She paid with a Visa card.
+@JANINE What calls?
+@VENKMAN Why don't you step into the office and we'll talk about it.  Hold all my calls, Janine.
+@STANTZ  Yes, sir.  Don't worry.  We handle this kind of thing all the time.
+@MANAGER Heavens, no!  The owners don't like us to even talk about it.  I hoped we could take care of this quietly tonight.
+@STANTZ  Did you ever report it to anyone?
+@MANAGER Well, most of the original staff knows about the twelfth floor ... The disturbances, I mean ... But it's been quiet for years ... Up until two weeks ago ... It was never ever this bad, though.
+@STANTZ  Has this ever happened before?
+@MANAGER Thank you for coming so quickly.  The guests are starting to ask questions and I'm running out of excuses.
+@VENKMAN ... or you can accept the fact that this city is heading for a disaster of really Biblical proportions.
+@PECK That's "Peck!"
+@VENKMAN Mr. Mayor, it's a pretty simple choice. You can believe Mr. Pecker here ...
+@PECK Probably a mixture of gases, no doubt stolen from the Army ...
+@VENKMAN The man is a psychopath, Your Honor.
+@PECK See!  They are using drugs.
+@VENKMAN You turned off the power!  Look, there was another man here ... You have to find him and bring him back.  A short determined-looking guy with the eyes of a happy zombie.
+@PECK Forget it, Venkman.  You had your chance to cooperate but you thought it was more fun to insult me.  Now it's my turn, smart-ass.
+@VENKMAN At ease, Officers.  I'm Peter Venkman.  I think there's been some kind of misunderstanding here and I want to cooperate in every way I can.
+@VENKMAN Hey!  Make yourself useful!  Go save a tree!
+@PECK Have it your way, Mr. Venkman.
+@VENKMAN Go ahead!  Get a court order.  Then I'm gonna sue your ass off for wrongful prosecution.
+@PECK Well, because I'm curious.  I want to know more about what you do here.  Frankly, there have been a lot of wild stories in the media and we want to assess any possible environmental impact from your operation. For instance, the storage of noxious, possibly hazardous waste materials in your basement.  Now either you show me what's down there or I come back with a court order.
+@VENKMAN Why do you want to see it?
+@PECK May I please see the storage facility?
+@VENKMAN The magic word is "please."
+@PECK And what is the magic word, Mr. Venkman?
+@VENKMAN Because you didn't say the magic word.
+@PECK And why not, Mr. Venkman?
+@VENKMAN No, you may not.
+@PECK And may I see this storage facility?
+@VENKMAN Yes, it would.
+@PECK And would this storage facility be located on these premises?
+@VENKMAN In a storage facility.
+@PECK And where do you put these ghosts once you catch them?
+@VENKMAN I'm not at liberty to say.
+@PECK And how many ghosts have you caught, Mr. Venkman?
+@VENKMAN You could say that.
+@PECK I see.  And now you catch ghosts?
+@VENKMAN I have Ph.D's in psychology and parapsychology.
+@PECK Exactly what are you a doctor of, Mr. Venkman?
+@VENKMAN Yes, I'm Doctor Venkman.
+@PECK Are you Peter Venkman?
+@VENKMAN Great!  How's it going?
+@PECK I'm Walter Peck.  I represent the Environmental Protection Agency, Third District.
+@VENKMAN Can I help you?
+@VENKMAN Then my theory was correct.
+@SOPHOMORE I'll tell you the effect!  It pisses me off!
+@VENKMAN I'm studying the effect of negative reinforcement on ESP ability.
+@SOPHOMORE Yeah, but I didn't know you were going to give me electric shocks.  What are you trying to prove?
+@VENKMAN You volunteered, didn't you?  Aren't we paying you for this?
+@SOPHOMORE Hey!  I'm getting a little tired of this.
+@VENKMAN Sorry.  This isn't your day.
+@SOPHOMORE Two wavy lines?
+@VENKMAN Well, just 75 more to go.  What's this one?
+@SOPHOMORE Yes.  I don't like this.
+@VENKMAN Nervous?
+@VENKMAN Close -- but definitely wrong.
+@SOPHOMORE Circle?
+@VENKMAN Good guess -- but no.
+@SOPHOMORE A square?
+@VENKMAN All right.  What is it?
+@STREET PUNK Wow!
+@SPENGLER On Earth -- no.  But on Krypton we could slice him up like Oscar Mayer Bologna.
+@STREET PUNK Wait!  Wait!  Let me ask you something.  If you like shot Superman with those guns, would he feel it or what?
+@SPENGLER I couldn't do that.  You might hurt someone.
+@STREET PUNK Yeah, yeah.  I just want to see 'em.
+@SPENGLER They're not guns.  They're particle throwers.
+@STREET PUNK Hey, Mister!  Can I see those guns?
+@SPENGLER When you were in the bathroom, did you notice anything that was yellow and unusually smelly?
+@WOMAN You're a regular Sherlock Holmes.  Now what do you want?
+@SPENGLER The wet towels, residual moisture on your lower limbs and hair, the redness in your cheeks indicating ...
+@WOMAN What on earth gave you that idea?
+@SPENGLER Were you recently in the bathroom?
+@WOMAN Yes?
+@VENKMAN But it's my favorite state.
+@SPENGLER Life is just a state of mind.
+@VENKMAN No!  You said crossing the beams would be BAD.  It'll kill her!  And us!
+@SPENGLER No!  Them!  Shoot them!  Cross the beams.
+@VENKMAN On the count of three!  One ... Two ...
+@SPENGLER Full-stream with strogon pulse.
+@VENKMAN What now?
+@VENKMAN Get a grip on yourself, Egon.  I talked to Dana Barrett and she referred to Gozer as the Destructor.
+@SPENGLER You talked to Gozer?
+@VENKMAN Gozer.
+@SPENGLER Who?
+@VENKMAN She said he was "the Destructor."
+@SPENGLER Yes.  After the First World War Shandor decided that society was too sick to survive.  And he wasn't alone.  He had close to a thousand followers when he died.  They conducted rituals, bizarre rituals, intended to bring about the end of the world.
+@VENKMAN Let me guess -- Gozer Worshippers.
+@SPENGLER Of course!  Ivo Shandor,  I saw his name in Tobin's SPIRIT GUIDE.  He started a secret society in 1920.
+@SPENGLER Oh, shit!
+@VENKMAN Where's the Keymaster?
+@VENKMAN If you turn that thing off we won't be responsible for the consequences.
+@SPENGLER He wants to shut down the storage grid.
+@SPENGLER All right, Peter.  Good night.
+@VENKMAN I'll spend the night here and get back first thing in the morning.
+@SPENGLER All right.  I'll try.
+@VENKMAN You have to keep him there.  Do whatever you have to, but don't let him leave,  He could be very dangerous.
+@SPENGLER I agree.
+@VENKMAN Yeah, yeah.  I was just thinking.  It probably wouldn't be a good idea for them to get together at this point.
+@SPENGLER Some.  I just met the Keymaster.  He's here with me now.  Venkman?  Are you there?
+@VENKMAN I don't think so.  It's more of that Gozer thing.  She says she's the Gatekeeper.  Does that make any sense to you?
+@SPENGLER Does she want to be?
+@VENKMAN I'm with Dana Barrett and she's floating three feet off the bed.
+@SPENGLER What is it?
+@VENKMAN It's Peter, Egon.  I've got a problem.
+@SPENGLER It's hard to explain, but try to imagine all life as you know it stopping instantaneously and finding yourself confined forever in another dimension.
+@VENKMAN What do you mean "bad?"
+@SPENGLER Trust me.  It will be bad.
+@VENKMAN Why not?
+@SPENGLER Don't cross the beams.
+@VENKMAN What?
+@SPENGLER Wait!  Wait!  There's something I forgot to tell you.
+@VENKMAN Yeah, I can smell it.
+@SPENGLER Something was definitely here.
+@VENKMAN Didn't see anything,  Didn't get anything. Nice girl - no ghost.  I'm starting to worry.  You said your graph was pointing to something big.  You told me things were going to start popping.
+@SPENGLER Did you see anything?
+@SPENGLER She's telling the truth -- or at least she thinks she is.
+@VENKMAN Generally, you don't see that kind of behavior in a major appliance.  What do you think, Egon?
+@VENKMAN Will you guys relax?  We are on the threshold of establishing the indispensable defense science of the next decade - Professional Paranormal Investigations and Eliminations.  The franchise rights alone will make us wealthy beyond your wildest dreams.
+@SPENGLER Just for your information, Ray, the interest payments alone for the first five years come to over $75,000.
+@VENKMAN Wow!
+@SPENGLER I'm always serious.
+@VENKMAN Spengler, are you serious about actually catching a ghost?
+@VENKMAN Egon, somehow this reminds me of the time you tried to drill a hole in your head.  Do you remember that?
+@SPENGLER Oh, this is big, Peter.  This is very big. There's definitely something here.
+@VENKMAN What have you got, Egon?
+@SPENGLER Oh!  You're here.
+@SPENGLER That appears to be the case.
+@STANTZ  You mean if I stand here and concentrate on the image of Roberto Clemente, Gozer will appear as Roberto Clemente and wipe us out?
+@SPENGLER And look at this, Peter  Cold-riveted girders with selenium cores.
+@STANTZ  Look at the structure of the roof cap.  It looks exactly like the kind of telemetry tracker NASA uses to identify dead pulsars in other galaxies.
+@SPENGLER The storage facility blew.  This one ...  ... shut off the protection grid.
+@STANTZ  What happened??!!!?
+@SPENGLER I'm worried, Ray.  It's getting crowded in there.  And all my recent data points to something big on the bottom.
+@STANTZ  I need two new purge valves.  How's the grid around the storage facility holding up?
+@SPENGLER I've got to sleep.
+@SPENGLER Neutronize.  System shut.
+@STANTZ  Set entry grid.
+@SPENGLER Easy ... Easy ... I'm going to throw in my trap now.
+@STANTZ  It's working!
+@STANTZ  God, it's ugly!
+@SPENGLER Ray!  Where are you?  Are you all right?
+@SPENGLER We'd better adjust our streams.
+@STANTZ  Sorry, Buddy!
+@SPENGLER I blame myself.
+@STANTZ  I just realized something.  We've never had a completely successful test with any of the equipment.
+@SPENGLER Or even a race memory, stored in the collective unconscious.  And I wouldn't rule out clairvoyance or telepathic contact either.
+@STANTZ  You know, Peter, this could be a past life experience intruding on the present.
+@VENKMAN Great!  The marshmallows are about to get their revenge.
+@STANTZ  The Stay-Puft Marshmallow Man!  He was on all the packages we used to buy when I was a kid.  We used to roast Stay-Puft marshmallows at Camp Waconda!
+@VENKMAN AND YOU CAME UP WITH THAT?
+@STANTZ  Look!
+@VENKMAN What?  What popped in there?
+@STANTZ  I couldn't help it!  It just popped in there!
+@STANTZ  Forget the trapping!  Just blast him!
+@VENKMAN Agile bastard, isn't he?
+@VENKMAN Well, that ought to do it.
+@STANTZ  As a duly-constituted representative of the City of New York, and on behalf of the County and State of New York, the United States of America, the Planet Earth and all its inhabitants, I hereby order you to cease and desist any and all supernatural activity and return at once to your place of origin or next parallel dimension.
+@STANTZ  I don't think it's Shandor.
+@VENKMAN It doesn't seem to have slowed him down any.
+@STANTZ  He's listed on the blueprints as I. Shandor.
+@VENKMAN Who was the architect?
+@STANTZ  No!  Nobody ever built them like this!  The architect was either an authentic whacko or a certified genius.  The whole building is like a huge antenna for pulling in and concentrating psychokinetic energy.
+@VENKMAN I guess they don't build them like they used to, huh?
+@STANTZ  It's not good, Pete.
+@VENKMAN Egon, how's the grid around the storage facility holding up?
+@VENKMAN I can't take much more of this.  The pace is killing me.
+@STANTZ  Boy, that was a rough one.
+@STANTZ  I don't know.  I'm just guessing.
+@VENKMAN How do you know?
+@STANTZ  Don't move.  It won't hurt you.
+@VENKMAN It's here, Ray.  It's looking at me.
+@VENKMAN Well, hurry up.  The needle's going wild.
+@STANTZ  Sit tight.  I'm on my way.
+@VENKMAN Third floor.  Get down here,
+@STANTZ  Where are you, Pete?
+@VENKMAN Ray -- Something's here.
+@STANTZ  All right.  Let's cool the negative vibes. These things can sense them.
+@VENKMAN So far all we got is a shit smell on the twelfth floor and we almost fried a Puerto Rican bellboy.
+@STANTZ  I'm getting high readings near the air vents.  It must be using the duct system to get around.  See, I told you we'd get something.
+@VENKMAN Sure.  Each of us is wearing an unlicensed nuclear accelerator on our back.  No problem.
+@STANTZ  No sense worrying about it now.
+@VENKMAN So do I.
+@VENKMAN Do you know when that might be?  We're on the brink of a very serious cash-flow problem.
+@STANTZ  They will.
+@VENKMAN It wasn't a date.  It was an investigation.
+@STANTZ  How was your date?
+@VENKMAN Good idea.  Were any other words spoken that you remember?
+@STANTZ  Why don't I check out the building?  It may have a history of psychic turbulence.
+@STANTZ  Fourteen hundred.
+@VENKMAN Do you think it's wide enough?  How much?
+@STANTZ  Everybody can relax.  I found the car.  How do you like it?
+@VENKMAN This might do ... I don't know ... it just seems kind of "pricey" for a fixer-upper, don't you think?  We're trying to keep our costs down.  You know how it is when you're starting a new company.
+@STANTZ  Wow!  Does this pole still work?
+@VENKMAN Maybe.  But no one ever advertised before.
+@STANTZ  But most people are afraid to even report these things.
+@STANTZ  But at nineteen percent interest!  You didn't even bargain with the guy.
+@VENKMAN You're not going to lose the house. Everybody has three mortgages these days.
+@STANTZ  My parents left me that house, I was born there.
+@VENKMAN You'll never regret this, Ray.
+@VENKMAN To go into business for ourselves.
+@STANTZ  For what purpose?
+@VENKMAN Let me tell you, Ray, everything in life happens for a reason.  Call it fate, call it luck, Karma, whatever.  I think we were destined to get kicked out of there.
+@STANTZ  Do you know what a patent clerk makes?  I liked the University.  They gave us money, they gave us the facilities and we didn't have to produce anything!  I've worked in the private sector.  They expect results. You've never been out of college.  You don't know what it's like out there.
+@VENKMAN You're always so worried about your reputation.  We don't need the University. Einstein did his best stuff while he was working as a patent clerk.'They can't stop progress.
+@STANTZ  This is like a major disgrace.  Forget M.I.T. or Stanford now ... they wouldn't touch us with a three-meter cattle prod.
+@VENKMAN Ray, I apologize.  I guess my confidence in the Regents was misplaced.  They did this to Galileo, too.
+@STANTZ  You said you floored 'em at the Regents' meeting.
+@VENKMAN Yeah, but I introduced you guys.  You never would've met if not for me.  That's got to be worth something.
+@STANTZ  If anyone deserves it, it's Spengler and me. We're doing all the hard research and designing the equipment.
+@VENKMAN If you guys are right, if we can actually trap a ghost and hold it somehow, I think I could win the Nobel Prize.
+@VENKMAN Oh, yeah.  This could be bigger than the microchip.  They'll probably throw out the entire engineering department and turn their building over to us.  We're probably the first serious scientists to ever molest a dead old lady.
+@STANTZ  I guess I got a little overexcited.  Wasn't it incredible!  I'm telling you, this is a first.  You know what this could mean to the University?
+@VENKMAN "Get her?"  That was your whole plan?  You call that science?
+@STANTZ  Okay.  Okay.  I got it.  I know what to do. Stay close.  I have a plan.
+@VENKMAN Hey, Lady?  Lady!  Can you talk?  Who are you?   This is not working.  Think of something else.
+@STANTZ  Anything!  Just make contact.
+@VENKMAN What do I say?
+@STANTZ  I don't know.  Talk to it.
+@VENKMAN What do we do now?
+@STANTZ  I told you it's real.
+@VENKMAN It looks like a big pair of breasts and a pot belly.
+@STANTZ  What is it?
+@VENKMAN Uh-huh.  I've heard about the rockfall, Ray. I think you've been spending too much time with Spengler.
+@STANTZ  Well, I was at an unexplained multiple high-altitude rockfall once.
+@VENKMAN Looked at with your eyes.
+@STANTZ  What do you mean by "seen?"
+@VENKMAN Ray, as your friend I have to tell you I think you've really gone around the bend on this ghost stuff.  You've been running your ass off for two years checking out every schizo in the Five Boroughs who thinks he's had an experience.  And what have you seen?
+@STANTZ  Spengler and I have charted every psychic occurrence in the Tri-State area for the past two years.  The graph we came up with definitely points to something big.
+@STANTZ  No, this one's for real, Peter.  Spengler went down there and took some PKE readings. Right off the top of the scale.  Buried the needle.  We're close this time. I can feel it.
+@VENKMAN Sure.  That's great, Ray.  I think you should get down there right away and check it out.  Let me know what happens.
+@STANTZ  Peter, at 1:40 this afternoon at the main branch of the New York Public Library on Fifth Avenue, ten people witnessed a free-roaming, vaporous, full-torso apparition.  It blew books from shelves at twenty feet away.  Scared the socks off some poor librarian.
+@VENKMAN Excuse me for a minute.  Ray, I'm right in the middle of something here.  Can you come back in about an hour?
+@STANTZ  What do you mean "choose?"  We don't understand.
+@WINSTON  What's he talking about?  Choose what?
+@STANTZ  LATER, MAN!!
+@WINSTON  Stantz?  You okay in there?
+@WINSTON  Right.  We'll believe anything.
+@STANTZ  You don't have to worry about that with us, sir.
+@WINSTON  Well, has it ever occurred to you that the reason you've been so busy lately is because the dead have been rising from their graves?
+@STANTZ  Every ancient religion had its own myth about the end of the world.
+@WINSTON  Yeah, Judgement Day.
+@STANTZ  Judgement Day ...
+@WINSTON  Right.  And the sky would fall ...
+@STANTZ  And the seas would boil ...
+@WINSTON  Ray, do you remember something in the Bible about a day when the dead would rise up from their graves?
+@STANTZ  The whole roof cap was fabricated with a magnesium-tungsten alloy.
+@WINSTON  Me, too. Parts of the Bible are great.
+@STANTZ  No.  But I liked Jesus' style.
+@WINSTON  Do you believe in God?
+@STANTZ  Boy!  Solid cores of shielded Selenium .325.
+@WINSTON  Me, too.
+@STANTZ  Mmmhmmm.
+@WINSTON  Are you a Christian, Ray?
+@STANTZ  Uh ... Oh these are blueprints of the structural ironwork in Dana Barrett's apartment building ... And they're most unusual.
+@WINSTON  Hey man.  What is it you're so involved with there?
+@WINSTON  Yeah, I heard that.  Now tell me what you really do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
