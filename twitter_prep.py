@@ -1,7 +1,7 @@
 from itertools import zip_longest
 import re
 
-data_path = "weather.txt"
+data_path = "Ghostbusters.txt"
 
 with open(data_path, 'r', encoding='utf-8') as f:
   lines = f.read().split('\n')
